@@ -101,7 +101,8 @@ Below are examples of API tests performed using Postman.
 ###  Delete Athlete (DELETE /api/athletes/{id})
 ![DELETE Athlete](./screenshots/N3.png)
 
-###  Consultations
+## Consultations
+
 - **POST /api/consultations**  
   ![POST Consultation](screenshots/POST-CON.png)
 
@@ -111,9 +112,9 @@ Below are examples of API tests performed using Postman.
 - **GET /api/consultations**  
   ![GET Consultations](screenshots/GET-CON.png)
 
----
 
-###  Nutrition Entries
+## Nutrition Entries
+
 - **POST /api/nutrition-entries**  
   ![POST Nutrition](screenshots/POST-NUT.png)
 
