@@ -103,22 +103,22 @@ Below are examples of API tests performed using Postman.
 
 ###  Consultations
 - **POST /api/consultations**  
-  ![POST Consultation](src/main/resources/screenshots/POST-CON.png)
+  ![POST Consultation](screenshots/POST-CON.png)
 
 - **PUT /api/consultations/{id}**  
-  ![PUT Consultation](src/main/resources/screenshots/PUT-CON.png)
+  ![PUT Consultation](screenshots/PUT-CON.png)
 
 - **GET /api/consultations**  
-  ![GET Consultations](src/main/resources/screenshots/GET-CON.png)
+  ![GET Consultations](screenshots/GET-CON.png)
 
 ---
 
 ###  Nutrition Entries
 - **POST /api/nutrition-entries**  
-  ![POST Nutrition](src/main/resources/screenshots/POST-NUT.png)
+  ![POST Nutrition](screenshots/POST-NUT.png)
 
 - **GET /api/nutrition-entries**  
-  ![GET Nutrition](src/main/resources/screenshots/GET-N.png)
+  ![GET Nutrition](screenshots/GET-N.png)
 
 - **DELETE /api/nutrition-entries/{id}**  
-  ![DELETE Nutrition](src/main/resources/screenshots/DELET-NUT.png)
+  ![DELETE Nutrition](screenshots/DELET-NUT.png)
