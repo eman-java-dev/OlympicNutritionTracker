@@ -241,7 +241,7 @@ Bachelor – Développeur Java, Studi (2025)
 #### 2️⃣ GET — Récupérer une entrée par ID
 **GET** `/api/nutrition-entries/{id}`  
 Exemple : `/api/nutrition-entries/1`  
-![GET Nutrition (By ID)](./screenshots/GET-NUT-ID.png)
+![GET Nutrition (By ID)](./screenshots/GET-N.png)
 
 #### 3️⃣ GET — Récupérer les entrées par Athlète
 **GET** `/api/nutrition-entries?athleteId={athleteId}`  
